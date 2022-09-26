@@ -1,2 +1,2 @@
-# DRPCS
-  Denver Remote PC System
+# DRCP
+  Densec Remote Control Protocol
